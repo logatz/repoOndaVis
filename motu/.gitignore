@@ -1,0 +1,10 @@
+/target/
+/dist/
+/MANIFEST
+/build
+*.pyc
+*.py-path
+*__pycache__*
+/src/motuclient/motuclient.egg-info/
+/.sonar
+
