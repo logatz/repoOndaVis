@@ -12,3 +12,4 @@ Exemplo de texto so com ponto.
 Exemplo com 2 espacos no final  
 Exeplo sem ponto[...]
 ```  
+Novo teste commit com VScode
